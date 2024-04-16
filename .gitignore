@@ -14,3 +14,4 @@ Saved
 *.xcworkspace
 Content/AI/Tasks/Combat/BTTask_ChooseSpell.uasset
 Content/AI/Tasks/Services/BTService_AlertAllies.uasset
+Content/DominiksContent/BP_domsPlayer.uasset
